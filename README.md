@@ -1,4 +1,6 @@
 # Health Care Data Patient Wait List Power BI data analysis
+![HealthCare Patient Wait List](https://github.com/hariisname/Power-BI/assets/128911230/7f0bd9b6-1857-44d1-a5ea-ca0779a00300)
+
 
 ## Project Goals:
 #### Track current status of patient waiting list:
